@@ -2,7 +2,7 @@
 https://idghim.github.io/fcc-Technical-Documentation/
 
 ## Objectifs
-Build Documentation Page
+Build Documentation Page.
 *Similar to [Documentation Page]([https://technical-documentation-page.freecodecamp.rocks]) (do not copy this demo project).*
 
 ## Instructions
