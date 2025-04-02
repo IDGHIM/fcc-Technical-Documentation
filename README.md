@@ -1,5 +1,5 @@
-# fcc-Technical-Documentation
-https://idghim.github.io/fcc-Technical-Documentation/
+# :notebook: fcc-Technical-Documentation
+Website : https://idghim.github.io/fcc-Technical-Documentation/
 
 ## Objectifs
 For this project, you will build a technical documentation page to serve as instruction or reference for a topic.
