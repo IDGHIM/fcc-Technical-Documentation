@@ -21,6 +21,7 @@ For this project, you will build a technical documentation page to serve as inst
    - [x] When you click on a navbar element, the page should navigate to the corresponding section of the #main-doc element (e.g. If you click on a .nav-link element that contains the text "Hello world", the page navigates to a section element with that id, and contains the corresponding header)
    - [x] On regular sized devices (laptops, desktops), the element with id="navbar" should be shown on the left side of the screen and should always be visible to the user
    - [x] Your technical documentation should use at least one media query
+
 **Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!**
 >[!IMPORTANT]
 >Be sure to add <link rel="stylesheet" href="styles.css"> in your HTML to link your stylesheet and apply your CSS
