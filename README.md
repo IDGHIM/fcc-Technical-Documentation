@@ -1,7 +1,7 @@
 # :notebook: fcc-Technical-Documentation
 Website : https://idghim.github.io/fcc-Technical-Documentation/
-*On the site some instructions have been changed to make a result that I personnally liked*
 
+*On the site some instructions have been changed to make a result that I personnally liked*
 ## :dart: Objectifs
 For this project, you will build a technical documentation page to serve as instruction or reference for a topic.                        
 *Similar to [Documentation Page]([https://technical-documentation-page.freecodecamp.rocks]) (do not copy this demo project).*
