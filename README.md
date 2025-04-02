@@ -1,11 +1,11 @@
 # :notebook: fcc-Technical-Documentation
 Website : https://idghim.github.io/fcc-Technical-Documentation/
 
-## :pushpin: Objectifs
+## :dart: Objectifs
 For this project, you will build a technical documentation page to serve as instruction or reference for a topic.
 *Similar to [Documentation Page]([https://technical-documentation-page.freecodecamp.rocks]) (do not copy this demo project).*
 
-## Instructions
+## :pushpin: Instructions
    - [ ] You can see a main element with a corresponding id="main-doc", which contains the page's main content (technical documentation)
    - [ ] Within the #main-doc element, you can see several section elements, each with a class of main-section. There should be a minimum of five
    - [ ] The first element within each .main-section should be a header element, which contains text that describes the topic of that section.
