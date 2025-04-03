@@ -51,5 +51,5 @@ For this project, you will build a technical documentation page to serve as inst
 21. Your #navbar should always be on the left edge of the window.
 22. Your Technical Documentation project should use at least one media query.
     
-## Context of project 
-This is one of the required projects to earn certification
+### :black_medium_small_square: Context of project 
+This is one of the required projects to earn certification Responsive Web Design 
