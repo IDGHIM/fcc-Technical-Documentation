@@ -88,6 +88,7 @@ It helped me improve my skills in:
 
 - GitHub: [@idghim](https://github.com/idghim)  
 - freeCodeCamp: [My Profile](https://www.freecodecamp.org/IchemD)
+- Mail : [Email](ichemdghim@gmail.com)
 
 ---
 
