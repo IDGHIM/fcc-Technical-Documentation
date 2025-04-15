@@ -1,4 +1,4 @@
-# 📝 fcc-Technical-Documentation
+# 📝 fcc-Technical-Documentation ( 🌐 version ) 
 
 🔗 **Live Website**: [https://idghim.github.io/fcc-Technical-Documentation/](https://idghim.github.io/fcc-Technical-Documentation/)
 
@@ -87,7 +87,7 @@ It helped me improve my skills in:
 ## 📫 Contact
 
 - GitHub: [@idghim](https://github.com/idghim)  
-- freeCodeCamp: [My Profile](https://www.freecodecamp.org/idghim)
+- freeCodeCamp: [My Profile](https://www.freecodecamp.org/IchemD)
 
 ---
 
